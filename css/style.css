@@ -10,7 +10,7 @@
 padding: 10px 10px 40px 10px;
 }
 
-#name, #phone-number, #email, #github, #linkedin {
+#name, #phone-number, #email, #github, #linkedin, #submit {
     width: 75%;
     box-sizing: border-box;
     padding: 15px 20px;
@@ -29,3 +29,7 @@ padding: 10px 10px 40px 10px;
     box-sizing: border-box;
     font-size: 18px;
   }
+
+  #response {
+    padding-bottom: 30px;
+}
